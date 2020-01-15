@@ -1,0 +1,9 @@
+POST http://localhost:8080/hero/new
+Content-Type: application/json
+
+{
+  "name": "Arginin"
+}
+
+
+###
